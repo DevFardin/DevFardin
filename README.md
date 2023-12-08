@@ -1,11 +1,10 @@
 <img width="100%" src="https://raw.githubusercontent.com/fardin-ahmed-1/fardin-ahmed-1/main/fardin%20ahmed.png" alt="my banner">
 
-# Hi there 👋,
-# I'm Fardin Ahmed
+# Hi there 👋, I'm Fardin Ahmed
 
 ### About me
 
-I'm Fardin Ahmed, a passionate Mean Stack Developer. Residing in Dhaka, Bangladesh, I dedicate a minimum of 12-14 hours every day to my craft. For me, web development is not just a job—it's my life and everything I love. I thrive on the excitement of learning new things daily
+Hello, I'm Fardin Ahmed, a passionate Mean Stack Developer. Residing in Dhaka, Bangladesh, I dedicate a minimum of 12-14 hours every day to my craft. For me, web development is not just a job—it's my life and everything I love. I thrive on the excitement of learning new things daily
 
 ### 💫 Liitle Bit More About Me
 
