@@ -1,6 +1,7 @@
 <img width="100%" src="https://raw.githubusercontent.com/fardin-ahmed-1/fardin-ahmed-1/main/fardin%20ahmed.png" alt="my banner">
 
-# Hi there 👋, My name is Fardin Ahmed
+# Hi there 👋,
+# I'm Fardin Ahmed
 
 ### About me
 
@@ -11,7 +12,7 @@ I'm Fardin Ahmed, a passionate Mean Stack Developer. Residing in Dhaka, Banglade
 <p>🔭 I'm currently working on Fiverr</p>
 <p>🌱 I'm currently learning Javascript, react</p>
 <p>📫 How to reach me? contactfardin22@gmail.com</p>
-<p>Know about my experiences <a href="https://i.ibb.co/W3fvzj9/Md-Fardin-Ahmed-Resume.jpg">here</a></p>
+<p>Know about my experiences (Resume) <a href="https://i.ibb.co/W3fvzj9/Md-Fardin-Ahmed-Resume.jpg">here</a></p>
 <p>⚡ Fun Fact: I think I am funny</p>
 
 ### 💻 My Skills
