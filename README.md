@@ -42,5 +42,5 @@ Hello, I'm Fardin Ahmed, a passionate Mean Stack Developer. Residing in Dhaka, B
 ### 📊 Github Status
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=fardin-ahmed-1&show_icons=true"><p>
-
-<p><img src="https://visitcount.itsvg.in/api?id=fardin-ahmed-1&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fardin-ahmed-1&theme=ambient-gradient&date_format=j%20M%5B%20Y%5D&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
