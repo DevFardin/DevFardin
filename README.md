@@ -38,3 +38,10 @@ Hello, I'm Fardin Ahmed, a passionate Mean Stack Developer. Residing in Dhaka, B
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fardin-ahmed-1&theme=nightowl)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fardin-ahmed-1&theme=nightowl&utcOffset=8)
+
+
+# 🌱 Projects
+
+## E-commerce Website
+### [Website Live Link](https://brand-shop-ecommerce.netlify.app/) 
+
