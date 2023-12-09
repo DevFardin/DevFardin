@@ -50,4 +50,4 @@ Hello, I'm Fardin Ahmed, a passionate Mean Stack Developer. Residing in Dhaka, B
 - Dedicated brand pages enhance the overall shopping experience by showcasing uniqueness.
 
 ### Technologies
-![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,nodejs,mongodb,firebase,vscode)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,nodejs,mongodb,firebase,vscode)
