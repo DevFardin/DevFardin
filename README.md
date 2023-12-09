@@ -44,10 +44,32 @@ Hello, I'm Fardin Ahmed, a passionate Mean Stack Developer. Residing in Dhaka, B
 
 ## E-commerce Website
 ### [Website Live Link](https://brand-shop-ecommerce.netlify.app/) 
-### features of the project:**
+### 🔭 features of the project:
 - MongoDB integration streamlines product uploads and information handling.
 - Product detail pages offer a smooth experience with "Add to Cart" and easy cart management.
 - Dedicated brand pages enhance the overall shopping experience by showcasing uniqueness.
 
 ### Technologies
-![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,nodejs,mongodb,firebase,vscode)
+![My Skills](https://skillicons.dev/icons?i=html,tailwind,js,react,vite,nodejs,mongodb,firebase)
+
+
+## Job Posting website
+### [Website Live Link](https://job-posting-upwork.netlify.app)
+### 🔭 features of the project:
+- Allow users to register and log in, manage profiles, and use Google authentication for seamless access.
+- Enable users to apply for jobs, track application statuses, and utilize account balance for applications.
+- Users can post, edit, and delete job listings for free, receiving success messages upon successful posting.
+-  Create a user-friendly dashboard for efficient management of job-related activities, displaying job applications, posted jobs, and their statuses.
+### Technologies
+![My Skills](https://skillicons.dev/icons?i=html,tailwind,js,react,vite,nodejs,mongodb,firebase)
+
+
+## online survey platform (Survey Monkey )
+### [Website Live Link](https://survey-polling.netlify.app/) 
+### 🔭 features of the project:
+- Allow users to register and log in, manage profiles, and use Google authentication for seamless access.
+- Surveyors can easily post, monitor, edit, or delete surveys, enhancing the user experience for those creating and managing surveys.
+- General users can actively engage with content by viewing comments, expressing opinions through likes or dislikes, and fostering a dynamic and interactive platform.
+-  Pro users enjoy exclusive features, including completing surveys and requesting additional surveys, creating a tiered system that enhances user engagement and platform value.
+### Technologies
+![My Skills](https://skillicons.dev/icons?i=html,tailwind,js,react,vite,nodejs,mongodb,express,firebase)
