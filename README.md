@@ -25,9 +25,12 @@ Hello, I'm Fardin Ahmed, a passionate Mean Stack Developer. Residing in Dhaka, B
 <a href="https://www.behance.net/fardinahmed2020"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
+### ⚡ GitHub Activity
 
-### 📊 Github Status
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fardin-ahmed-1&theme=vue-dark&date_format=j%20M%5B%20Y%5D&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
 
+
+### 📊 Profile Summary
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fardin-ahmed-1&theme=nightowl) 
 
