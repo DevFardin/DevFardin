@@ -1,9 +1,6 @@
 <img width="100%" src="https://raw.githubusercontent.com/fardin-ahmed-1/fardin-ahmed-1/main/fardin%20ahmed.png" alt="my banner">
 
-# Hi there 👋, I'm Fardin Ahmed
-
-### About me
-
+# Hi there :)  👋,
 Hello, I'm Fardin Ahmed, a passionate Mean Stack Developer. Residing in Dhaka, Bangladesh, I dedicate a minimum of 12-14 hours every day to my craft. For me, web development is not just a job—it's my life and everything I love. I thrive on the excitement of learning new things daily
 
 ### 💫 Liitle Bit More About Me
@@ -16,7 +13,9 @@ Hello, I'm Fardin Ahmed, a passionate Mean Stack Developer. Residing in Dhaka, B
 
 ### 💻 My Skills
 
-<p align="center">
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,vite,nodejs,express,mongodb,firebase,vscode,figma,linkedin,github,wordpress,webflow)](https://skillicons.dev)
+
+<p>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
