@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/fardin-ahmed-1/fardin-ahmed-1/main/fardin%20ahmed.png" alt="my banner">
+<img width="100%" src="https://raw.githubusercontent.com/fardin-ahmed-1/fardin-ahmed-1/main/Github%20Cover%20Fardin%20.png" alt="my banner">
 
 # Hi there :)  👋,
 Hello, I'm Fardin Ahmed, a passionate Mean Stack Developer. Residing in Dhaka, Bangladesh, I dedicate a minimum of 12-14 hours every day to my craft. For me, web development is not just a job—it's my life and everything I love. I thrive on the excitement of learning new things daily
