@@ -16,7 +16,7 @@ Hello, I'm Fardin Ahmed, a passionate Mean Stack Developer. Residing in Dhaka, B
 
 ### 💻 My Skills
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
@@ -41,6 +41,9 @@ Hello, I'm Fardin Ahmed, a passionate Mean Stack Developer. Residing in Dhaka, B
 
 ### 📊 Github Status
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=fardin-ahmed-1&show_icons=true"><p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=fardin-ahmed-1&show_icons=true">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fardin-ahmed-1&theme=ambient-gradient&date_format=j%20M%5B%20Y%5D&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
+  <p>
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fardin-ahmed-1&theme=ambient-gradient&date_format=j%20M%5B%20Y%5D&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
+
