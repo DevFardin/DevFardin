@@ -29,7 +29,7 @@ Hello, I'm Fardin Ahmed, a passionate Mean Stack Developer. Residing in Dhaka, B
 ### 📊 Github Status
 
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fardin-ahmed-1&theme=nightowl)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fardin-ahmed-1&theme=nightowl) |
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fardin-ahmed-1&theme=nightowl)
   
