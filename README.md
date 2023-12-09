@@ -44,4 +44,10 @@ Hello, I'm Fardin Ahmed, a passionate Mean Stack Developer. Residing in Dhaka, B
 
 ## E-commerce Website
 ### [Website Live Link](https://brand-shop-ecommerce.netlify.app/) 
+### features of the project:**
+- MongoDB integration streamlines product uploads and information handling.
+- Product detail pages offer a smooth experience with "Add to Cart" and easy cart management.
+- Dedicated brand pages enhance the overall shopping experience by showcasing uniqueness.
 
+### Technologies
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,nodejs,mongodb,firebase,vscode)](https://skillicons.dev)
