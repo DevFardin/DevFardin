@@ -1,4 +1,4 @@
-<img width="100%" src="https://media.licdn.com/dms/image/D5616AQGrKhOZ4YWniA/profile-displaybackgroundimage-shrink_350_1400/0/1708019474034?e=1713398400&v=beta&t=Q7XkT6lUI9Wi7oXH1gcNBAfrp6PARaqB0rZcTX5t1gU" alt="my banner">
+<img width="100%" src="https://i.ibb.co/T8xxBKz/blue-minimalist-computer-class-google-classroom-header.png" alt="my banner">
 
 # Hi there :)  👋,
 Hello, I'm Fardin Ahmed, a passionate Mean Stack Developer. Residing in Dhaka, Bangladesh, I dedicate a minimum of 12-14 hours every day to my craft. For me, web development is not just a job—it's my life and everything I love. I thrive on the excitement of learning new things daily
