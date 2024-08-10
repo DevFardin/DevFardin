@@ -15,7 +15,7 @@ Hello, I'm Fardin Ahmed, a passionate Mean Stack Developer. Residing in Dhaka, B
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,vite,nodejs,express,mongodb,firebase,vscode,figma,linkedin,github,wordpress,webflow)](https://skillicons.dev)
 
-### 👥 Connect With Me
+## 👥 Connect With Me
 <p>
 <a href="https://linkedin.com/in/fardinahmed2020/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://twitter.com/FardinA11852931"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
